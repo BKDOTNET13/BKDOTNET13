@@ -23,5 +23,5 @@ Database management and backend optimization.
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/glyph-neue/64/github.png"/> 
+<img height="50" width="50" src="https://github.com/user-attachments/assets/89d66ced-d9c6-4fe3-9aed-84c51d59f5de"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/glyph-neue/64/github.png"/> 
 

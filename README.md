@@ -19,7 +19,7 @@ Database management and backend optimization.
 
 
  ### I code in
-<img height="15" width="10" src="https://github.com/user-attachments/assets/d5573799-80ec-407d-8054-87502a0200f0"/>
+<img height="50" width="50" src="https://github.com/user-attachments/assets/d5573799-80ec-407d-8054-87502a0200f0"/>
 
 <img height="10" width="10" src=https://img.icons8.com/color/48/django.png >
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>

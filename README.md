@@ -1,16 +1,36 @@
-## Hi there 👋
+## It's Me R.Bharani👋
 
-<!--
-**BKDOTNET13/BKDOTNET13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 👀 I’m actively looking for ...
+"Opportunities in Python development, where I can contribute to web application projects and further develop my full-stack skills."
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+"Deepening my skills in Django and Python for web development."
+"Exploring advanced Python techniques, including bitwise operations and backend data handling."
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Python programming and Django web development."
+"Database management and optimization in full-stack projects."
+
+- 😄 Pronouns: Techie
+  
+- <a href="mailto:kmathavancsegmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kmathavancsegmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+- <a href="https://libraryproject.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/Project-Library%20Management%20System-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+
+
+
+
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/><img height="50" width="50" src=https://img.icons8.com/color/48/django.png >
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
+
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/glyph-neue/64/github.png"/> 
+
+![Mathavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mathavancse&bg_color=000000&color=15d57c&line=0ae65e&point=1a4d39&area=true&hide_border=true)

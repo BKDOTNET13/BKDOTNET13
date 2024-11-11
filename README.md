@@ -16,18 +16,6 @@ Database management and backend optimization.
 😄 Pronouns: Techie
 
 📧 Email: bharanibk1039@gmail.com
-  
-- <a href="mailto:kmathavancsegmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kmathavancsegmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-- <a href="https://libraryproject.pythonanywhere.com/">
-    <img src="https://img.shields.io/badge/Project-Library%20Management%20System-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-
-
-
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/><img height="50" width="50" src=https://img.icons8.com/color/48/django.png >

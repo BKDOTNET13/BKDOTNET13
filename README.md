@@ -1,17 +1,21 @@
-## It's Me R.Bharani👋
+##  I'm Bharani 👋
+.NET and Angular Developer
+👀 Currently working on:
+Building skills and experience in .NET and Angular development, with 6 months of hands-on experience.
 
-Python Developer
+🌱 Currently learning:
 
-- 👀 I’m actively looking for ...
-"Opportunities in Python development, where I can contribute to web application projects and further develop my full-stack skills."
-- 🌱 I’m currently learning ...
-"Deepening my skills in Django and Python for web development."
-"Exploring advanced Python techniques, including bitwise operations and backend data handling."
-- 💬 Ask me about ...
-"Python programming and Django web development."
-"Database management and optimization in full-stack projects."
+Advancing my knowledge in .NET and backend development.
+Expanding my skills in Angular for front-end development.
+Exploring tools for API development and data handling.
+💬 Ask me about:
 
-- 😄 Pronouns: Techie
+.NET development and API integration.
+Angular development and front-end optimization.
+Database management and backend optimization.
+😄 Pronouns: Techie
+
+📧 Email: bharanibk1039@gmail.com
   
 - <a href="mailto:kmathavancsegmail.com">
     <img src="https://img.shields.io/badge/Gmail-kmathavancsegmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
